@@ -1,7 +1,7 @@
 package ncs.test1;
 
 public class ArrayTest {
-	public static final int ARRAY_SIZE = 10;
+	public static final int ARRAY_SIZE = 6;
 	public static void main(String[] args) {
 		ArrayTest t = new ArrayTest();
 		int[] array = new int[ARRAY_SIZE];
